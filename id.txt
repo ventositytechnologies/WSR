@@ -1,0 +1,6 @@
+Admin
+user: admin
+pass: admin123
+Cashier
+user: cashier
+pass: 12345
